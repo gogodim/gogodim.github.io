@@ -2,36 +2,36 @@
 layout: page
 title: involvements
 permalink: /involvements/
-description: A growing collection of your cool involvements.
+description: A growing collection of your cool projects.
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/involvements.md -->
+<!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized involvements -->
+  <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_involvements = site.involvements | where: "category", category %}
-  {% assign sorted_involvements = categorized_involvements | sort: "importance" %}
+  {% assign categorized_projects = site.involvements | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_involvements %}
+    {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_involvements %}
-      {% include involvements.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -39,9 +39,9 @@ horizontal: false
 
 {% else %}
 
-<!-- Display involvements without categories -->
+<!-- Display projects without categories -->
 
-{% assign sorted_involvements = site.involvements | sort: "importance" %}
+{% assign sorted_projects = site.involvements | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -49,15 +49,15 @@ horizontal: false
 
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_involvements %}
+    {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_involvements %}
-      {% include involvements.liquid %}
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}

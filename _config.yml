@@ -178,11 +178,14 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
+  involvements:
+    output: true
+    permalink: /involvements/:path/
 
 announcements:
   enabled: false
