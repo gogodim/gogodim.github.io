@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is Gorazd Dimitrov. I was born and raised in Skopje, Macedonia, where I also attended my early education. 
+During my high school days I spent a significant time on preparing and participating in renowned international competitions and Olympiads mainly in mathematics (Intenrational Mathematics Olympiad - IMO), but also in computer science, physics and robotics. After graduating from High School at Yahya Kemal College Skopje, I decided to continue my studies abroad. 
+Being admitted with honors, and recieving an excellence scholarship I decided to pursue a double degree in matematics and computer science at Ecole Polytechnique in France. After graduating magna cum laude in the bachelor program I continued my masters at Ecole Polytechnique by following a theoretical computer science program, the MPRI (Parisian Research Master in Computer Science). 
+While following courses at the MPRI I decided to reorient myself from theoretical computer science to applied mathematics and Operations Research (OR). To strengthen my knowledge in Operations Research, after recieving a PSL excellence scholarship for graduate students in computer science, I followed a masters at University Paris Dauphine-PSL with focus on Mathematical Optimization and Decision Theory (Modeling, Optimization, Decision, Organization - MODO).
+During my academic days I have completed a number of internships in both industry (Palantir, Orange, MyBrain Technologies...) and research labs (INRIA Saclay, LIX Polytechnique...), while also leading two student orgnaizations (IEEE Student Branch Polytechnique, Computer Science Committee).
