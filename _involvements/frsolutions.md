@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Startup Co-founder FRSolutions
+title: Startup Co-founder FRSolution
 description: Co-founded a startup focused hardware and software solutions with facial recongition.
-img: assets/img/9.jpg
+img: assets/img/frsolution.PNG
 importance: 3
 category: older
 ---
