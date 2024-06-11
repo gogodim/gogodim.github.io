@@ -2,7 +2,7 @@
 layout: page
 title: Tool to Analyse Public’s Political Opinion
 description: Sentimental analysis tool based on BERT, for comparing and getting insights on the french presidential election candidates.
-img: assets/img/tappof.PNG
+img: assets/img/tappof.png
 importance: 1
 category: recent
 ---
