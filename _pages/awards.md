@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards-grants/
-title: Awards and Grants
+title: awards and grants
 description: Selected awards.
 nav: true
 nav_order: 5
@@ -17,5 +17,4 @@ Selected awards and grants received through the years:<br>
   <li>Silver and Bronze medal "NSUCrypto – International Cryptography Competition", 2019 & 2020</li>
   <li>Three Gold Medals on the International Exhibition of Innovations – Makinova</li>
   <li>Award “Best Innovation of a Young Innovator” from the Ministry of Education of Macedonia</li>
-
 </ul>

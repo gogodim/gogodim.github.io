@@ -2,7 +2,7 @@
 layout: page
 title: Shared Delivery Cost
 description: Web application for sharing delivery cost with multi-objective optimization.
-img: 
+img: assets/img/9.jpg
 importance: 2
 related_publications: false
 ---
