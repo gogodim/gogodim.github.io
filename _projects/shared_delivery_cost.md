@@ -23,4 +23,4 @@ category: recent
   <li>Directly worked on the time, cost and spatial multi-objective heuristic optimization algorithms.</li>
 </ul>
 
-<b>Github:</b> <a href="https://github.com/gogodim/SharedDeliveryCost-CSE201Project">link</a>
+<b>Github:</b> <a href="https://github.com/gogodim/SharedDeliveryCost-CSE201Project">repository</a>
