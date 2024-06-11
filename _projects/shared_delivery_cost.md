@@ -21,7 +21,6 @@ category: recent
   <li>Front-end especilly exploring and explaining to the team how the WT library for C++ is used.</li>
   <li>Database infrastructure.</li>
   <li>Directly worked on the time, cost and spatial multi-objective heuristic optimization algorithms.</li>
-  <li></li>
 </ul>
 
 <b>Github:</b> <a href="https://github.com/gogodim/SharedDeliveryCost-CSE201Project">link</a>
