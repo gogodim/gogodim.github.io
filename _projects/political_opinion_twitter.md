@@ -17,4 +17,3 @@ Contributions:
   <li>Implementation of the french BERT model for a 86.3% accuracy.</li>
   <li>Graphic representation of results, anomaly detection, and correlation with campaign events.</li>
 </ul>
-Github: <a href="the_link">link_text</a>
