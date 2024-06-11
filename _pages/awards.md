@@ -1,12 +1,21 @@
 ---
 layout: page
-permalink: /awards/
-title: awards
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /awards-grants/
+title: Awards and Grants
+description: Selected awards.
 nav: true
 nav_order: 5
 ---
+Selected awards and grants received through the years:<br>
+<ul>
+  <li>Excellence Grant for the Graduate Programme in Computer Science from PSL</li>
+  <li>Bourse France Excellence (French Government grant) from the French Embassy in Macedonia</li>
+  <li>Excellence Scholarship from Ecole Polytechnique Foundation </li>
+  <li>Participation on the International Mathematics Olympiad (IMO), 2017</li>
+  <li>Gold Medal "National Mathematics Olympiad", 2018 (1st overall) & 2017 (4th overall) </li>
+  <li>Silver Medal "National Informatics Olympiad", 2018 </li>
+  <li>Silver and Bronze medal "NSUCrypto – International Cryptography Competition", 2019 & 2020</li>
+  <li>Three Gold Medals on the International Exhibition of Innovations – Makinova</li>
+  <li>Award “Best Innovation of a Young Innovator” from the Ministry of Education of Macedonia</li>
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+</ul>
