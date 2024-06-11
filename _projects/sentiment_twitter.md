@@ -4,6 +4,7 @@ title: Tool to Analyse Public’s Political Opinion
 description: Sentimental analysis tool based on BERT, for comparing and getting insights on the french presidential election candidates.
 img: assets/img/9.jpg
 importance: 1
+category: recent
 ---
 
 <b>Abstract:</b> Lead a team of 3 in creating a tool that uses sentimental analysis on filtered french tweets to analyze the public's political opinion, comparing candidates, and offering different insights for the presidential elections in France. Trained on data from before the 2017 elections and evaluated on data from before the 2022 elections. Compared 3 different approaches: Logistic Regression (LR), Convolutional-Neural-Network (CNN), Bidirectional Encoder Representations from Transformers (BERT).

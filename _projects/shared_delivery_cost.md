@@ -5,6 +5,7 @@ description: Web application for sharing delivery cost with multi-objective opti
 img: assets/img/9.jpg
 importance: 2
 related_publications: false
+category: recent
 ---
 
 <b>Abstract:</b> In the scope of our C++ project I lead a team of 7 in creating a web application for sharing order delivery cost.
